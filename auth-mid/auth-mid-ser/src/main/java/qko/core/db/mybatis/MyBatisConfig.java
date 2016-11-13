@@ -24,7 +24,7 @@ public class MyBatisConfig {
     @Autowired
     private Environment env;
 
-    @Resource(name="dataSourceHikari")
+    @Autowired
     private DataSource ds;
 
     /**

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-mid/auth-mid.iml" filepath="$PROJECT_DIR$/auth-mid/auth-mid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-mid/auth-mid-ser/auth-mid-ser.iml" filepath="$PROJECT_DIR$/auth-mid/auth-mid-ser/auth-mid-ser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-web/auth-web.iml" filepath="$PROJECT_DIR$/auth-web/auth-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qko-auth.iml" filepath="$PROJECT_DIR$/qko-auth.iml" />
+    </modules>
+  </component>
+</project>
