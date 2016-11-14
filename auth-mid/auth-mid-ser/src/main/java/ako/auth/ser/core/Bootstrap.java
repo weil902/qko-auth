@@ -3,6 +3,7 @@ package ako.auth.ser.core;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.ImportResource;
 
 import java.util.Arrays;
 
@@ -10,6 +11,7 @@ import java.util.Arrays;
  * Created by weil on 2016/11/12.
  */
 @SpringBootApplication
+@ImportResource(locations={"classpath:spring/spring-context.xml"})
 public class Bootstrap {
 
     public static void main(String[] args) throws Exception {
