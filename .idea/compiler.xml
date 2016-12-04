@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="auth-mid-ser" />
         <module name="auth-web" />
+        <module name="cloud-config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auth-mid" target="1.8" />
       <module name="auth-mid-ser" target="1.8" />
       <module name="auth-web" target="1.8" />
+      <module name="cloud-config-server" target="1.8" />
       <module name="qko-auth" target="1.8" />
     </bytecodeTargetLevel>
   </component>
